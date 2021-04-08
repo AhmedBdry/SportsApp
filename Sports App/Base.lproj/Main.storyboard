@@ -555,7 +555,6 @@
                                                 <constraint firstItem="qDt-hd-zig" firstAttribute="leading" secondItem="xhf-yM-wY8" secondAttribute="trailing" constant="20" id="w4t-Co-NAo"/>
                                             </constraints>
                                         </tableViewCellContentView>
-                                        <color key="backgroundColor" red="0.742850872" green="0.84851715630000002" blue="0.87764925689999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <connections>
                                             <outlet property="button" destination="C6m-7i-aMI" id="4Wf-HU-YjB"/>
                                             <outlet property="imageCell" destination="xhf-yM-wY8" id="jlE-0U-3P7"/>
